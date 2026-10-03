@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/icon-256.png" width="160"></p>
+
 # PaperGuard
 
 Signed, replay-proof IP forwarding for Minecraft servers behind a proxy.
@@ -20,6 +22,10 @@ PaperGuard signs every login instead:
 - **One key per server.** A leaked key from one backend does not open the others.
 - **Fail closed.** If PaperGuard is not set up, nobody can join, instead of everybody.
 - **Old servers too.** Paper 1.12.2 and newer, Folia, Java 8+.
+
+## Download
+
+[Modrinth](https://modrinth.com/plugin/paperguard) (in review) · [Hangar](https://hangar.papermc.io/LucasTHCR/PaperGuard) · [GitHub releases](https://github.com/OPaperStream/PaperGuard/releases)
 
 ## Setup with PaperProxy
 
